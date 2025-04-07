@@ -11,7 +11,9 @@ void main(List<String> args) {
   */
 
   //Logicos
+
   /*
+Ya mañana si hago algo
   ||
   &&
   !
