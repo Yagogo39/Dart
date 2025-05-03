@@ -1,4 +1,4 @@
-//Bucle For
+//Bucle For xd
 void main(List<String> args) {
   print("Tablas de multiplicar");
   var r;
